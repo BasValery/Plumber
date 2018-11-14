@@ -1,0 +1,8 @@
+﻿  BaseDialogWindow.cpp
+c:\users\valery\desktop\портфолио\plumber\code\plumber\basedialogwindow.cpp(53): warning C4311: reinterpret_cast: усечение указателя из "Plumber::BaseDialogWindow *" в "LONG"
+c:\users\valery\desktop\портфолио\plumber\code\plumber\basedialogwindow.cpp(53): warning C4302: reinterpret_cast: усечение из "Plumber::BaseDialogWindow *" к "LONG"
+c:\users\valery\desktop\портфолио\plumber\code\plumber\basedialogwindow.cpp(65): warning C4312: reinterpret_cast: преобразование из "LONG" в "Plumber::BaseDialogWindow *" большего размера
+c:\users\valery\desktop\портфолио\plumber\code\plumber\basedialogwindow.cpp(84): warning C4244: аргумент: преобразование "LPARAM" в "LONG", возможна потеря данных
+c:\users\valery\desktop\портфолио\plumber\code\plumber\basedialogwindow.cpp(161): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\valery\desktop\портфолио\plumber\code\plumber\basedialogwindow.cpp(172): warning C4312: reinterpret_cast: преобразование из "LONG" в "HWND" большего размера
+  Plumber.vcxproj -> C:\Users\Valery\Desktop\Портфолио\Plumber\Code\x64\Debug\Plumber.exe

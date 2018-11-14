@@ -1,0 +1,21 @@
+﻿  user.cpp
+  TubeView.cpp
+  tubeCollection.cpp
+  StraightPipe.cpp
+  Record.cpp
+  MainWindow.cpp
+  main.cpp
+  LevelManager.cpp
+  Level.cpp
+  InformationWindow.cpp
+  ImagePool.cpp
+  GameWindow.cpp
+  EmptyPipe.cpp
+  CrossPipe.cpp
+  BentPipe.cpp
+  baseTube.cpp
+c:\users\valery\desktop\портфолио\plumber\code\plumber\basetube.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\valery\desktop\портфолио\plumber\code\plumber\basetube.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+  BaseDialogWindow.cpp
+  Создание кода...
+  Plumber.vcxproj -> C:\Users\Valery\Desktop\Портфолио\Plumber\Code\Debug\Plumber.exe

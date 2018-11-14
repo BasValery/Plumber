@@ -1,0 +1,23 @@
+﻿  BaseDialogWindow.cpp
+  baseTube.cpp
+baseTube.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+baseTube.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+  BentPipe.cpp
+  CrossPipe.cpp
+  EmptyPipe.cpp
+  GameWindow.cpp
+  ImagePool.cpp
+  InformationWindow.cpp
+  Level.cpp
+  LevelManager.cpp
+  main.cpp
+  MainWindow.cpp
+  Record.cpp
+  StraightPipe.cpp
+  tubeCollection.cpp
+  TubeView.cpp
+  user.cpp
+  Создание кода
+  All 634 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Plumber.vcxproj -> C:\Users\Valery\Desktop\Портфолио\Plumber\Code\Release\Plumber.exe

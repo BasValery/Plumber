@@ -1,0 +1,29 @@
+﻿  BaseDialogWindow.cpp
+BaseDialogWindow.cpp(53): warning C4311: reinterpret_cast: усечение указателя из "Plumber::BaseDialogWindow *" в "LONG"
+BaseDialogWindow.cpp(53): warning C4302: reinterpret_cast: усечение из "Plumber::BaseDialogWindow *" к "LONG"
+BaseDialogWindow.cpp(65): warning C4312: reinterpret_cast: преобразование из "LONG" в "Plumber::BaseDialogWindow *" большего размера
+BaseDialogWindow.cpp(84): warning C4244: аргумент: преобразование "LPARAM" в "LONG", возможна потеря данных
+BaseDialogWindow.cpp(161): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+BaseDialogWindow.cpp(172): warning C4312: reinterpret_cast: преобразование из "LONG" в "HWND" большего размера
+  baseTube.cpp
+  BentPipe.cpp
+  CrossPipe.cpp
+  EmptyPipe.cpp
+  GameWindow.cpp
+  ImagePool.cpp
+  InformationWindow.cpp
+  Level.cpp
+  LevelManager.cpp
+LevelManager.cpp(43): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+main.cpp(37): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  MainWindow.cpp
+  Record.cpp
+  StraightPipe.cpp
+  tubeCollection.cpp
+  TubeView.cpp
+  user.cpp
+  Создание кода
+  All 634 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Plumber.vcxproj -> C:\Users\Valery\Desktop\Портфолио\Plumber\Code\x64\Release\Plumber.exe
